@@ -6,6 +6,7 @@ Print those data to the LCD and send the data to the UDP server.
 *UDP server means any Windows OS computer which has support for UDP protocol
 
 #Dashboard app
+
 The dashboard app has an 'advanced UI' :P. You cant move the window by dragging random stuff.
 Click, hold and drag the 'L' button to move the window. Click 'M' to minimize the window.
 Click 'X' to close the window.

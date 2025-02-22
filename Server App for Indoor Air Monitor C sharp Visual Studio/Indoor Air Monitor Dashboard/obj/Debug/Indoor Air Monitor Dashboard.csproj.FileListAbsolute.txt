@@ -1,0 +1,22 @@
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe.config
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.pdb
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Indoor Air Monitor Dashboard.csproj.AssemblyReference.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form1.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form2.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Properties.Resources.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Indoor Air Monitor Dashboard.csproj.GenerateResource.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Indoor Air Monitor Dashboard.csproj.CoreCompileInputs.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.exe
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.pdb
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor Air Monitor Dashboard.csproj.AssemblyReference.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Visual_CS_UDP_2.Form1.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Visual_CS_UDP_2.Form2.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor Air Monitor Dashboard.csproj.GenerateResource.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor Air Monitor Dashboard.csproj.CoreCompileInputs.cache
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\bin\Debug\Indoor Air Monitor Dashboard.exe.config
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\bin\Debug\Indoor Air Monitor Dashboard.exe
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\bin\Debug\Indoor Air Monitor Dashboard.pdb
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor_Air_Monitor_Dashboard.Properties.Resources.resources
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor Air Monitor Dashboard.exe
+E:\Document\Portfolio\SHTS\Server App for Indoor Air Monitor C sharp Visual Studio\Indoor Air Monitor Dashboard\obj\Debug\Indoor Air Monitor Dashboard.pdb

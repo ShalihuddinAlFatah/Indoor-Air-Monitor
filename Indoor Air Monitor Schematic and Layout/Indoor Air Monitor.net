@@ -1,0 +1,1482 @@
+(export 
+  (version "E") 
+  (design 
+    (source "E:\\Document\\EasyEDA PRJ\\Schematic SHTS\\Rev 2\\SHTS Rev 2\\SHTS Rev 2.kicad_sch") 
+    (date "10/31/2024 4:34:06 PM") 
+    (tool "Eeschema 7.0.8") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "SHTS Rev 2.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "10UF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "54686758-1985-45a4-a177-3064fee9f1d8")) 
+    (comp 
+      (ref "C2") 
+      (value "10UF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c546e894-dc36-43f3-86c2-adc40ef57449")) 
+    (comp 
+      (ref "C5") 
+      (value "10UF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a93bb6a1-c8e9-49d9-955e-67f147a12a7f")) 
+    (comp 
+      (ref "C6") 
+      (value "10UF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0e311e36-9291-4c78-b49b-c97ed7e4bcf5")) 
+    (comp 
+      (ref "C9") 
+      (value "10UF") 
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a5911fb0-3e80-4855-abc5-bab017d9fe73")) 
+    (comp 
+      (ref "DC_IN0") 
+      (value "JACK-PLUG0") 
+      (footprint "SHTS Rev 2:SPC4077") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "JACK-PLUG0") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "eeb2e323-ea4e-4787-a9fe-3148a6109751")) 
+    (comp 
+      (ref "H1") 
+      (value "MountingHole") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole") 
+        (description "Mounting Hole without connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Mounting Hole without connection")) 
+      (property 
+        (name "ki_keywords") 
+        (value "mounting hole")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c7ec4240-5f1a-4aa4-a91e-ecca33e9adb5")) 
+    (comp 
+      (ref "H2") 
+      (value "MountingHole") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole") 
+        (description "Mounting Hole without connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Mounting Hole without connection")) 
+      (property 
+        (name "ki_keywords") 
+        (value "mounting hole")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "98929b87-ac1e-4239-9ea0-908563c40657")) 
+    (comp 
+      (ref "H3") 
+      (value "MountingHole") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole") 
+        (description "Mounting Hole without connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Mounting Hole without connection")) 
+      (property 
+        (name "ki_keywords") 
+        (value "mounting hole")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b2c967c8-965d-4e17-a607-e20790fa62ea")) 
+    (comp 
+      (ref "H4") 
+      (value "MountingHole") 
+      (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad") 
+      (libsource 
+        (lib "Mechanical") 
+        (part "MountingHole") 
+        (description "Mounting Hole without connection")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Mounting Hole without connection")) 
+      (property 
+        (name "ki_keywords") 
+        (value "mounting hole")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "88ac3b1c-e427-458a-adc3-35eb437b466d")) 
+    (comp 
+      (ref "LCD0") 
+      (value "MA04-1") 
+      (footprint "SHTS Rev 2:MA04-1") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "MA04-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1a211128-8529-4eef-b054-0d585979cc4c")) 
+    (comp 
+      (ref "R1") 
+      (value "10k") 
+      (footprint "SHTS Rev 2:R0805") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "R-EU_R0805") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1c23f67f-4883-4176-883c-e658e96336ab")) 
+    (comp 
+      (ref "R2") 
+      (value "10k") 
+      (footprint "SHTS Rev 2:R0805") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "R-EU_R0805") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "940c352d-39de-4e05-a1b3-dbf0ce1aec9c")) 
+    (comp 
+      (ref "SV1") 
+      (value "FE15-1") 
+      (footprint "SHTS Rev 2:FE15") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "FE15-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2fdb564f-81db-475b-95c4-531013f9d1e1")) 
+    (comp 
+      (ref "SV2") 
+      (value "FE15-1") 
+      (footprint "SHTS Rev 2:FE15") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "FE15-1") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "41956241-794c-4eda-b24b-43df8384993e")) 
+    (comp 
+      (ref "SW1") 
+      (value "SW_DIP-2") 
+      (footprint "SHTS Rev 2:EDG-02") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "SW_DIP-2") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3bccd832-30a1-471d-a6db-55ca149c9c14")) 
+    (comp 
+      (ref "U$1") 
+      (value "NODEMCU") 
+      (footprint "SHTS Rev 2:NODEMCU") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "NODEMCU") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "50370f45-4b97-4f2d-9379-fb510c8ec2a2")) 
+    (comp 
+      (ref "U$2") 
+      (value "TEMP-HUM-SENSOR-DHT22") 
+      (footprint "SHTS Rev 2:TEMP-HUM-SENSOR-DHT22") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "TEMP-HUM-SENSOR-DHT22") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d03b694b-cdc2-4e84-a77d-340fa6b43175")) 
+    (comp 
+      (ref "U$3") 
+      (value "GAS-SENSOR-MQ2") 
+      (footprint "SHTS Rev 2:GAS-SENSOR-MQ2") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "GAS-SENSOR-MQ2") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3e601d2f-70af-4334-b410-36b65cb0045d")) 
+    (comp 
+      (ref "U$4") 
+      (value "BSS138") 
+      (footprint "SHTS Rev 2:BSS138") 
+      (libsource 
+        (lib "SHTS Rev 2-eagle-import") 
+        (part "BSS138") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "60b2e578-3d4e-47e8-a6f5-f990736d688b")) 
+    (comp 
+      (ref "U1") 
+      (value "AMS1117-3.3") 
+      (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2") 
+      (datasheet "http://www.advanced-monolithic.com/pdf/ds1117.pdf") 
+      (libsource 
+        (lib "Regulator_Linear") 
+        (part "AMS1117-3.3") 
+        (description "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "SHTS Rev 2.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223")) 
+      (property 
+        (name "ki_keywords") 
+        (value "linear regulator ldo fixed positive")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "be2c5d8e-702f-42ed-bc6b-df2247dfa357"))) 
+  (libparts 
+    (libpart 
+      (lib "Device") 
+      (part "C") 
+      (description "Unpolarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "C_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Mechanical") 
+      (part "MountingHole") 
+      (description "Mounting Hole without connection") 
+      (docs "~") 
+      (footprints 
+        (fp "MountingHole*")) 
+      (fields 
+        (field 
+          (name "Reference") "H") 
+        (field 
+          (name "Value") "MountingHole") 
+        (field 
+          (name "Datasheet") "~"))) 
+    (libpart 
+      (lib "Regulator_Linear") 
+      (part "AMS1117-3.3") 
+      (description "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223") 
+      (docs "http://www.advanced-monolithic.com/pdf/ds1117.pdf") 
+      (footprints 
+        (fp "SOT?223*TabPin2*")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "AMS1117-3.3") 
+        (field 
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-223-3_TabPin2") 
+        (field 
+          (name "Datasheet") "http://www.advanced-monolithic.com/pdf/ds1117.pdf")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "VO") 
+          (type "power_out")) 
+        (pin 
+          (num "3") 
+          (name "VI") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "BSS138") 
+      (fields 
+        (field 
+          (name "Footprint") "SHTS Rev 2:BSS138")) 
+      (pins 
+        (pin 
+          (num "D") 
+          (name "D") 
+          (type "passive")) 
+        (pin 
+          (num "G") 
+          (name "G") 
+          (type "passive")) 
+        (pin 
+          (num "S") 
+          (name "S") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "FE15-1") 
+      (fields 
+        (field 
+          (name "Reference") "SV") 
+        (field 
+          (name "Footprint") "SHTS Rev 2:FE15")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "4") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "5") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "6") 
+          (type "passive")) 
+        (pin 
+          (num "7") 
+          (name "7") 
+          (type "passive")) 
+        (pin 
+          (num "8") 
+          (name "8") 
+          (type "passive")) 
+        (pin 
+          (num "9") 
+          (name "9") 
+          (type "passive")) 
+        (pin 
+          (num "10") 
+          (name "10") 
+          (type "passive")) 
+        (pin 
+          (num "11") 
+          (name "11") 
+          (type "passive")) 
+        (pin 
+          (num "12") 
+          (name "12") 
+          (type "passive")) 
+        (pin 
+          (num "13") 
+          (name "13") 
+          (type "passive")) 
+        (pin 
+          (num "14") 
+          (name "14") 
+          (type "passive")) 
+        (pin 
+          (num "15") 
+          (name "15") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "GAS-SENSOR-MQ2") 
+      (fields 
+        (field 
+          (name "Footprint") "SHTS Rev 2:GAS-SENSOR-MQ2")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "VCC") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "DO") 
+          (type "output")) 
+        (pin 
+          (num "4") 
+          (name "AO") 
+          (type "output")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "JACK-PLUG0") 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Footprint") "SHTS Rev 2:SPC4077")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "MA04-1") 
+      (fields 
+        (field 
+          (name "Reference") "SV") 
+        (field 
+          (name "Footprint") "SHTS Rev 2:MA04-1")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "4") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "NODEMCU") 
+      (fields 
+        (field 
+          (name "Footprint") "SHTS Rev 2:NODEMCU")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "VV") 
+          (type "bidirectional")) 
+        (pin 
+          (num "4") 
+          (name "S3") 
+          (type "bidirectional")) 
+        (pin 
+          (num "5") 
+          (name "S2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "6") 
+          (name "S1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "7") 
+          (name "SC") 
+          (type "bidirectional")) 
+        (pin 
+          (num "8") 
+          (name "S0") 
+          (type "bidirectional")) 
+        (pin 
+          (num "9") 
+          (name "SK") 
+          (type "bidirectional")) 
+        (pin 
+          (num "10") 
+          (name "GND@1") 
+          (type "power_in")) 
+        (pin 
+          (num "11") 
+          (name "3V") 
+          (type "power_in")) 
+        (pin 
+          (num "12") 
+          (name "EN") 
+          (type "bidirectional")) 
+        (pin 
+          (num "13") 
+          (name "RST") 
+          (type "bidirectional")) 
+        (pin 
+          (num "14") 
+          (name "GND@2") 
+          (type "power_in")) 
+        (pin 
+          (num "15") 
+          (name "VIN") 
+          (type "bidirectional")) 
+        (pin 
+          (num "16") 
+          (name "3V@1") 
+          (type "power_in")) 
+        (pin 
+          (num "17") 
+          (name "GND@3") 
+          (type "power_in")) 
+        (pin 
+          (num "18") 
+          (name "TX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "19") 
+          (name "RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "20") 
+          (name "D8") 
+          (type "bidirectional")) 
+        (pin 
+          (num "21") 
+          (name "D7") 
+          (type "bidirectional")) 
+        (pin 
+          (num "22") 
+          (name "D6") 
+          (type "bidirectional")) 
+        (pin 
+          (num "23") 
+          (name "D5") 
+          (type "bidirectional")) 
+        (pin 
+          (num "24") 
+          (name "GND@4") 
+          (type "power_in")) 
+        (pin 
+          (num "25") 
+          (name "3V@2") 
+          (type "power_in")) 
+        (pin 
+          (num "26") 
+          (name "D4") 
+          (type "bidirectional")) 
+        (pin 
+          (num "27") 
+          (name "D3") 
+          (type "bidirectional")) 
+        (pin 
+          (num "28") 
+          (name "D2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "29") 
+          (name "D1") 
+          (type "bidirectional")) 
+        (pin 
+          (num "30") 
+          (name "D0") 
+          (type "bidirectional")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "R-EU_R0805") 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Footprint") "SHTS Rev 2:R0805")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "SW_DIP-2") 
+      (fields 
+        (field 
+          (name "Reference") "SW") 
+        (field 
+          (name "Footprint") "SHTS Rev 2:EDG-02")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "4") 
+          (type "passive")))) 
+    (libpart 
+      (lib "SHTS Rev 2-eagle-import") 
+      (part "TEMP-HUM-SENSOR-DHT22") 
+      (fields 
+        (field 
+          (name "Footprint") "SHTS Rev 2:TEMP-HUM-SENSOR-DHT22")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "VDD") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "DAT") 
+          (type "bidirectional")) 
+        (pin 
+          (num "3") 
+          (name "N.C.") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "GND") 
+          (type "power_in"))))) 
+  (libraries 
+    (library 
+      (logical "Device") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Device.kicad_sym")) 
+    (library 
+      (logical "Mechanical") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Mechanical.kicad_sym")) 
+    (library 
+      (logical "Regulator_Linear") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Regulator_Linear.kicad_sym")) 
+    (library 
+      (logical "SHTS Rev 2-eagle-import") 
+      (uri "E:\\Document\\EasyEDA PRJ\\Schematic SHTS\\Rev 2\\SHTS Rev 2/SHTS Rev 2-eagle-import.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "/3V3") 
+      (node 
+        (ref "C5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C6") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV1") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "15") 
+        (pinfunction "15") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "6") 
+        (pinfunction "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "11") 
+        (pinfunction "3V") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "16") 
+        (pinfunction "3V@1") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "25") 
+        (pinfunction "3V@2") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$3") 
+        (pin "1") 
+        (pinfunction "VCC") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$4") 
+        (pin "G") 
+        (pinfunction "G") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "2") 
+        (pinfunction "VO") 
+        (pintype "power_out"))) 
+    (net 
+      (code "2") 
+      (name "/5V") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "DC_IN0") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "LCD0") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$2") 
+        (pin "1") 
+        (pinfunction "VDD") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U1") 
+        (pin "3") 
+        (pinfunction "VI") 
+        (pintype "power_in"))) 
+    (net 
+      (code "3") 
+      (name "/D5") 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "8") 
+        (pinfunction "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "23") 
+        (pinfunction "D5") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U$4") 
+        (pin "S") 
+        (pinfunction "S") 
+        (pintype "passive"))) 
+    (net 
+      (code "4") 
+      (name "/DHT_DAT") 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$2") 
+        (pin "2") 
+        (pinfunction "DAT") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U$4") 
+        (pin "D") 
+        (pinfunction "D") 
+        (pintype "passive"))) 
+    (net 
+      (code "5") 
+      (name "/GND") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "DC_IN0") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "DC_IN0") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "LCD0") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV1") 
+        (pin "14") 
+        (pinfunction "14") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV1") 
+        (pin "6") 
+        (pinfunction "6") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "14") 
+        (pinfunction "14") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "7") 
+        (pinfunction "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "10") 
+        (pinfunction "GND@1") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "14") 
+        (pinfunction "GND@2") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "17") 
+        (pinfunction "GND@3") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$1") 
+        (pin "24") 
+        (pinfunction "GND@4") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$2") 
+        (pin "4") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U$3") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U1") 
+        (pin "1") 
+        (pinfunction "GND") 
+        (pintype "power_in"))) 
+    (net 
+      (code "6") 
+      (name "/SCL") 
+      (node 
+        (ref "LCD0") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "29") 
+        (pinfunction "D1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "7") 
+      (name "/SDA") 
+      (node 
+        (ref "LCD0") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SV2") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "28") 
+        (pinfunction "D2") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "8") 
+      (name "/SMOKESENS") 
+      (node 
+        (ref "SV1") 
+        (pin "15") 
+        (pinfunction "15") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "1") 
+        (pinfunction "A0") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U$3") 
+        (pin "4") 
+        (pinfunction "AO") 
+        (pintype "output"))) 
+    (net 
+      (code "9") 
+      (name "Net-(U$1-D0)") 
+      (node 
+        (ref "SV2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "30") 
+        (pinfunction "D0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "10") 
+      (name "Net-(U$1-D3)") 
+      (node 
+        (ref "SV2") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "27") 
+        (pinfunction "D3") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "11") 
+      (name "Net-(U$1-D4)") 
+      (node 
+        (ref "SV2") 
+        (pin "5") 
+        (pinfunction "5") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "26") 
+        (pinfunction "D4") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "12") 
+      (name "Net-(U$1-D6)") 
+      (node 
+        (ref "SV2") 
+        (pin "9") 
+        (pinfunction "9") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "22") 
+        (pinfunction "D6") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "13") 
+      (name "Net-(U$1-D7)") 
+      (node 
+        (ref "SV2") 
+        (pin "10") 
+        (pinfunction "10") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "21") 
+        (pinfunction "D7") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "14") 
+      (name "Net-(U$1-D8)") 
+      (node 
+        (ref "SV2") 
+        (pin "11") 
+        (pinfunction "11") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "20") 
+        (pinfunction "D8") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "15") 
+      (name "Net-(U$1-EN)") 
+      (node 
+        (ref "SV1") 
+        (pin "4") 
+        (pinfunction "4") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "12") 
+        (pinfunction "EN") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "16") 
+      (name "Net-(U$1-RST)") 
+      (node 
+        (ref "SV1") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "13") 
+        (pinfunction "RST") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "17") 
+      (name "Net-(U$1-RX)") 
+      (node 
+        (ref "SV2") 
+        (pin "12") 
+        (pinfunction "12") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "19") 
+        (pinfunction "RX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "18") 
+      (name "Net-(U$1-S0)") 
+      (node 
+        (ref "SV1") 
+        (pin "8") 
+        (pinfunction "8") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "8") 
+        (pinfunction "S0") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "19") 
+      (name "Net-(U$1-S1)") 
+      (node 
+        (ref "SV1") 
+        (pin "10") 
+        (pinfunction "10") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "6") 
+        (pinfunction "S1") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "20") 
+      (name "Net-(U$1-S2)") 
+      (node 
+        (ref "SV1") 
+        (pin "11") 
+        (pinfunction "11") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "5") 
+        (pinfunction "S2") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "21") 
+      (name "Net-(U$1-S3)") 
+      (node 
+        (ref "SV1") 
+        (pin "12") 
+        (pinfunction "12") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "4") 
+        (pinfunction "S3") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "22") 
+      (name "Net-(U$1-SC)") 
+      (node 
+        (ref "SV1") 
+        (pin "9") 
+        (pinfunction "9") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "7") 
+        (pinfunction "SC") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "23") 
+      (name "Net-(U$1-SK)") 
+      (node 
+        (ref "SV1") 
+        (pin "7") 
+        (pinfunction "7") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "9") 
+        (pinfunction "SK") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "24") 
+      (name "Net-(U$1-TX)") 
+      (node 
+        (ref "SV2") 
+        (pin "13") 
+        (pinfunction "13") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "18") 
+        (pinfunction "TX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "25") 
+      (name "Net-(U$1-VIN)") 
+      (node 
+        (ref "SV1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "15") 
+        (pinfunction "VIN") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "26") 
+      (name "Net-(U$1-VV)") 
+      (node 
+        (ref "SV1") 
+        (pin "13") 
+        (pinfunction "13") 
+        (pintype "passive")) 
+      (node 
+        (ref "U$1") 
+        (pin "3") 
+        (pinfunction "VV") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "27") 
+      (name "unconnected-(U$2-N.C.-Pad3)") 
+      (node 
+        (ref "U$2") 
+        (pin "3") 
+        (pinfunction "N.C.") 
+        (pintype "passive"))) 
+    (net 
+      (code "28") 
+      (name "unconnected-(U$3-DO-Pad3)") 
+      (node 
+        (ref "U$3") 
+        (pin "3") 
+        (pinfunction "DO") 
+        (pintype "output")))))

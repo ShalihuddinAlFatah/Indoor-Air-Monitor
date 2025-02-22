@@ -1,0 +1,41 @@
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe.config
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.pdb
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csprojAssemblyReference.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form1.resources
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Properties.Resources.resources
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.GenerateResource.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.CoreCompileInputs.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.exe
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Data Acquisition\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.pdb
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe.config
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.pdb
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csprojAssemblyReference.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form1.resources
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Properties.Resources.resources
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.GenerateResource.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.CoreCompileInputs.cache
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.exe
+\\169.254.52.9\d\Administrator\Youtube AI\IoT Home\Secure Home Telemetry System\ESP8266\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.pdb
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe.config
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.pdb
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.AssemblyReference.cache
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form1.resources
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Properties.Resources.resources
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.GenerateResource.cache
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.CoreCompileInputs.cache
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.exe
+\\192.168.0.9\d\Youtube\Secure Home Telemetry System\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.pdb
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe.config
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.exe
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\bin\Debug\Visual CS UDP 2.pdb
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.AssemblyReference.cache
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form1.resources
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Form2.resources
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual_CS_UDP_2.Properties.Resources.resources
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.GenerateResource.cache
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.csproj.CoreCompileInputs.cache
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.exe
+E:\Document\Portofolio\SHTS\Server App for SHTS C sharp Visual Studio\Visual CS UDP 2\obj\Debug\Visual CS UDP 2.pdb
